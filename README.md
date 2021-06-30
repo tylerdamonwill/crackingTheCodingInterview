@@ -1,2 +1,3 @@
-# crackingTheCodingInterview
-A Study Guide for Cracking the Coding Interview
+# Cracking The Coding Interview
+
+## A complete study guide for cracking the coding interview
